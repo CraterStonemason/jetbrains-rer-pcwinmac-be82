@@ -1,4 +1,4 @@
-# 
+# Turbo JetBrains Rider preajustes para Mac OS | Élite JetBrains Rider preajustes para PC Windows. Con herramientas de compilación y configuración de red — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
